@@ -22,6 +22,9 @@ module.exports = {
             }
         ]
     },
+    resolve: {
+        extensions: [".js", ".jsx", ".css"]
+    },
     plugins: [],
     externals: {}
     //devtool: 'source-map'
