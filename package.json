@@ -1,0 +1,30 @@
+{
+  "name": "pd-spOrgDirectory",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "prop-types": "latest"
+  },
+  "devDependencies": {
+    "webpack": "latest",
+    "css-loader": "latest",
+    "style-loader": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-stage-0": "latest",
+    "babel-preset-react": "latest",
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-spsave": "latest",
+    "gulp-connect": "latest",
+    "eslint": "latest",
+    "eslint-plugin-react": "latest"
+  }
+}
